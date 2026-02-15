@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Sanchita Sonar
 
 ### Data Engineer | Azure | Databricks | AI-Driven Data Solutions
@@ -77,4 +77,4 @@ Clients: Johnson & Johnson | EisnerAmper
 * ETL & Data Pipeline Optimization
 * AI-Integrated Document Processing
 * Cloud Migration & Data Modernization
--->
+
