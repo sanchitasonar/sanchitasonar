@@ -14,22 +14,22 @@ Results-driven Data Engineer with 5+ years of experience designing and optimizin
 
 ## 🎓 Education
 
-**University of the Cumberlands**
+* University of the Cumberlands
 Executive Master’s in Project Management | GPA: 4.0/4.0
 
-**Rutgers, The State University of New Jersey**
+* Rutgers, The State University of New Jersey
 Master of Science in Information Technology & Analytics | GPA: 3.7/4.0
 
-**Savitribai Phule Pune University**
+* Savitribai Phule Pune University
 Bachelor of Engineering in Information Technology | GPA: 3.55/4.0
 
 ## 🛠 Technical Skills
 
-**Cloud:** Microsoft Azure | AWS
-**Data Engineering:** ADF | Databricks | Synapse | Delta Lake | Airflow
-**Programming:** Python | PySpark | SQL | PL/SQL | R
-**Databases:** SQL Server | Oracle | MongoDB | Redshift | Hadoop
-**Analytics:** Power BI
+* Cloud: Microsoft Azure | AWS
+* Data Engineering: ADF | Databricks | Synapse | Delta Lake | Airflow
+* Programming: Python | PySpark | SQL | PL/SQL | R
+* Databases: SQL Server | Oracle | MongoDB | Redshift | Hadoop
+* Analytics: Power BI
 
 ## 💼 Professional Experience
 
